@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
 	
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+a+Computer+Science+Student;I+love+learning+new+stuffs..;CTF+newbie!)](https://git.io/typing-svg)
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm a Computer Science Student..&hearts;++;CTF+Newbie;Active+Learner/Researcher,;I+love+to+learn+new+stuffs..<3"></a>
   
 </p>
 
