@@ -1,3 +1,4 @@
+<p align="center">
 # 💫 About Me:
 🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning Laravel <br>⚡ Fun fact - I love java language!
 
@@ -14,5 +15,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xreru&icon=2&color=12)](https://visitcount.itsvg.in)
-
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
