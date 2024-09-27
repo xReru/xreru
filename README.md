@@ -2,7 +2,9 @@
 <h1 align="center"><b>Hi , I'm Janrell Quiaroro </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
+	
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+a+Computer+Science+Student;I+love+learning+new+stuffs..;CTF+newbie!)](https://git.io/typing-svg)
+  
 </p>
 
 
@@ -25,7 +27,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=xreru&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
