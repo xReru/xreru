@@ -74,13 +74,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<p align="center">
 
 ![xreru's Stats](https://github-readme-stats.vercel.app/api?username=xreru&theme=react&show_icons=true&hide_border=false&count_private=true)
 ![xreru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xreru&theme=react&show_icons=true&hide_border=false&layout=compact)
 
+
 </a>
-</div>
+</p>
 
 <br>
 
