@@ -89,6 +89,14 @@
 
 <br>
 
+[![An image of @xreru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xreru)](https://holopin.io/@xreru)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 ## <b> Let's Connect..!</b> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" height="35">
 <br>
 <div align='left'>
@@ -112,8 +120,6 @@
 <a href="mailto:git.xreru@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xReru-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-	
-[![An image of @xreru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xreru)](https://holopin.io/@xreru)
 
 </div>
 
