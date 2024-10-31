@@ -113,6 +113,7 @@
 <img src="https://img.shields.io/badge/gmail:  0xReru-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 	
+[![An image of @xreru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xreru)](https://holopin.io/@xreru)
 
 </div>
 
