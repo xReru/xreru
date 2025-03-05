@@ -96,7 +96,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
-## <b> CodeWars Badge </b><img src="https://www.codewars.com/users/xReru/badges/large" target="https://www.codewars.com/users/xReru">
+ <b> CodeWars Badge </b><img src="https://www.codewars.com/users/xReru/badges/large" target="https://www.codewars.com/users/xReru">
+ <p align="center">
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
