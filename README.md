@@ -17,7 +17,7 @@
 <b>
 -- An aspiring Software Developer<br>
 -- Playing CTF's at spare time<br>
--- Currently learning React<br>
+-- Currently learning Laravel<br>
 -- I’m currently open for academic commissions
 </b>
 <br><br>
