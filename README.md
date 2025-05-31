@@ -23,6 +23,25 @@
 <br><br>
 
 ---
+<a href="https://linkedin.com/in/reru" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xReru-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="align:center;margin-bottom: 5px;"/>
+</a>
+
+
+<br>
+
+<a href="https://www.facebook.com/xreru" target="_blank">
+<img src="https://img.shields.io/badge/Facebook: 0xReru-4267B2.svg?color=4267B2&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;"/>
+</a>
+
+<br>
+
+<a href="mailto:git.xreru@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xReru-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+</div>
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -98,32 +117,6 @@
  <div align ="center"><img src="https://www.codewars.com/users/xReru/badges/large" target="https://www.codewars.com/users/xReru" align = "center"></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
-<b> Let's Connect..!</b> <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35" height="35">
-<br>
-<div align='left'>
-
-
-
-
-<a href="https://linkedin.com/in/reru" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xReru-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-
-
-<br>
-
-<a href="https://www.facebook.com/xreru" target="_blank">
-<img src="https://img.shields.io/badge/Facebook: 0xReru-4267B2.svg?color=4267B2&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;"/>
-</a>
-
-<br>
-
-<a href="mailto:git.xreru@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xReru-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xreru&icon=2&color=12)](https://visitcount.itsvg.in)
