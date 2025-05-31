@@ -20,11 +20,11 @@
 -- Currently learning Laravel<br>
 -- I’m currently open for academic commissions
 </b>
-<br><br>
+<br>
 
 ---
 <a href="https://linkedin.com/in/reru" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xReru-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="align:center;margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  0xReru-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
 
@@ -40,8 +40,8 @@
 <img src="https://img.shields.io/badge/gmail:  0xReru-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-</div>
----
+
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
