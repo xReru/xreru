@@ -15,7 +15,6 @@
 
 <br>
 <b>
--- An aspiring Software Engineer<br>
 -- Playing CTF's at spare time<br>
 -- Currently learning Laravel<br>
 -- I’m currently open for academic commissions
